@@ -1,5 +1,5 @@
 # NewsPortal_2024
-HW-D2.03<br/>
+HW-D2.03<br/> https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+FPW-2.0+27AUG2020/block-v1:SkillFactory+FPW-2.0+27AUG2020+type@sequential+block@96dcb8e94d03493f86426f37478fa6b2/block-v1:SkillFactory+FPW-2.0+27AUG2020+type@vertical+block@ecc99c10f0b646e4b5e1794fc6f5a655
 Что в нём должно быть?<br/>
 
 Модель Author<br/>
@@ -58,7 +58,7 @@ cвязь «один к одному» с встроенной моделью п
 Вывести все комментарии (дата, пользователь, рейтинг, текст) к этой статье.<br/>
 Созданное вами приложение вместе с файлом с командами необходимо загрузить в git-репозиторий.<br/>
 
-HW-D3.03<br/>
+HW-D3.03<br/>https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+FPW-2.0+27AUG2020/block-v1:SkillFactory+FPW-2.0+27AUG2020+type@sequential+block@c589dc7942374f61a888edae26662c7b/block-v1:SkillFactory+FPW-2.0+27AUG2020+type@vertical+block@239f677a49394f7ba1be9db9286a6618
 1. Создать новую страницу с адресом /news/, на которой должен выводиться список всех новостей.<br/>
 2. Вывести все статьи в виде заголовка, даты публикации и первых 20 символов текста.<br/>
 3. Новости должны выводиться в порядке от более свежей к самой старой.<br/>
